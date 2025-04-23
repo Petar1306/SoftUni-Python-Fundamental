@@ -1,0 +1,6 @@
+first_name = input()
+second_name = input()
+delimiter = input()
+# joined = (first_name + delimiter + second_name)
+# print(joined)
+print(f"{first_name}{delimiter}{second_name}")
